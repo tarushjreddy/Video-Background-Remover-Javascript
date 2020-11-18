@@ -1,0 +1,73 @@
+#c1{
+    display: none;
+        /* height: 500px; */
+}
+#navbar{
+    background-color: rgba(228, 228, 228, 0.2);
+    display: flex;
+align-items: center;
+padding-left: 20px;
+    
+    margin: 0px;
+    height: 45px;
+    box-shadow: 2px 2px 10px black;
+    text-shadow: 2px 2px 20px black;
+    margin-bottom: 20px;
+}
+#scroll{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    background-color: rgba(122, 122, 122, 0.5);
+    width: 300px;
+    margin-left: auto;    margin-right: auto;
+    border-radius: 20px;
+    padding: 10px;
+}
+#video{
+    height: 400px;
+
+
+}
+*{
+      margin: 0px;
+    background-color: rgb(12, 41, 80);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+#c2{
+    background-color: white;
+    height:400px;
+    width: 700px;
+    margin-left: 80px;
+    margin-top: 10px;
+    background-image: url("") ;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    color: white;
+      justify-content: center;
+    align-items: center;
+}
+.infoo{
+    display: flex;
+    flex-direction: row;
+    color: white;
+      justify-content: center;
+    align-items: center;
+}
+#toggle{
+    color: white;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    outline: none;
+}
+#playy{
+    color: white;
+}
